@@ -1,16 +1,34 @@
-# todo_app
+# Todo List App with GetX and Hive
 
-A new Flutter project.
+A simple Flutter todo list application using GetX for state management.
+
+## Features
+
+- Add new tasks
+- Mark tasks as completed/uncompleted
+- Delete tasks
+- Edit existing tasks
+- Swipe to delete or edit
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK 3.27
+- Dart SDK 3.6
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone the repository
+
+   git clone https://github.com/sonuraj909/Todo_app.git
+   cd \todo_app
+
+2. Install dependencies:
+
+    flutter pub get
+
+3. Run the app:
+ 
+    flutter run
